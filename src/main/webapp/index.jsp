@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Training Portal - Batch 06</title>
+    <title>DevOps Training Portal - Batch 07</title>
     <link rel="stylesheet" href="css/styles.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -42,7 +42,7 @@
                 <h1 class="hero-title">
                     Welcome to 
                     <span class="gradient-text">JDKT Training</span>
-                    <div class="batch-badge">Batch 6</div>
+                    <div class="batch-badge">Batch 07</div>
                 </h1>
                 <div class="instructor-info">
                     <div class="instructor-avatar">
